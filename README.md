@@ -2,4 +2,5 @@
 
 - This project consists of data analysis using R on a large dataset. 
 - There were relatively specific guidelines and processes followed in this project - outlined in the 'Project Overview & Process' PDF file.
-- This project was completed in a Data Analytics Course at Wittenberg University,
+- Contents of this repository include: The Project Overview File, The file for the R code, and a formal project report. 
+- This project was completed in a Data Analytics Course at Wittenberg University.
